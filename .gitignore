@@ -28,5 +28,6 @@ msvc/ipch
 *.deps
 Thumbs.db
 
-# don't add bin
+# don't add bin and pics
 bin/
+pics/

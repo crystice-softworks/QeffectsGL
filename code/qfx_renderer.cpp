@@ -117,7 +117,7 @@ const char *QFXRenderer :: GetExtensionString()
 			m_pszExtensions = new char[m_varExtensionLimit]();
 			const char *originalExtensions = reinterpret_cast<const char*>( gl::qglGetString( GL_EXTENSIONS ) );
 			if ( originalExtensions && *originalExtensions ) {
-				bool swapControl = !!strstr( originalExtensions, "WGL_EXT_swap_control" );
+				bool swapControl = ( m_varExtensionLimit > 21 ) && !!strstr( originalExtensions, "WGL_EXT_swap_control" );
 				const int currentLimit = swapControl ? ( m_varExtensionLimit - 21 ) : m_varExtensionLimit;
 				const int originalLength = static_cast<int>( strlen( originalExtensions ) );
 				int addedLength = 0;
