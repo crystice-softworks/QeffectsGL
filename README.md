@@ -49,49 +49,36 @@ However, it may also work with other OpenGL games. Just try!
 Left image: without QeffectsGL; right image: with QeffectsGL.
 
 **GLQuake**
-![q11a](https://cloud.githubusercontent.com/assets/20521208/20474316/912dacd6-aff8-11e6-90e7-aa3cb8b9c8a8.jpg?raw=true)
-![q11b](https://cloud.githubusercontent.com/assets/20521208/20474317/912eb176-aff8-11e6-867a-9f7ba5638166.jpg?raw=true)
-![q12a](https://cloud.githubusercontent.com/assets/20521208/20474319/912f591e-aff8-11e6-916d-64897df8957a.jpg?raw=true)
-![q12b](https://cloud.githubusercontent.com/assets/20521208/20474318/912f429e-aff8-11e6-9a26-6cf409d59d57.jpg?raw=true)
 
-![q11a](https://cloud.githubusercontent.com/assets/20521208/20474495/50a14758-aff9-11e6-8014-8c60a6a7fa8e.jpg)
-![q11b](https://cloud.githubusercontent.com/assets/20521208/20474494/50a11bac-aff9-11e6-83dd-98d081191b81.jpg)
-![q12a](https://cloud.githubusercontent.com/assets/20521208/20474496/50a1c886-aff9-11e6-8b85-2d00c53b2dba.jpg)
-![q12b](https://cloud.githubusercontent.com/assets/20521208/20474497/50a36330-aff9-11e6-9370-ff06ee2469ba.jpg)
+[![q11a](https://cloud.githubusercontent.com/assets/20521208/20474316/912dacd6-aff8-11e6-90e7-aa3cb8b9c8a8.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474495/50a14758-aff9-11e6-8014-8c60a6a7fa8e.jpg)
+[![q11b](https://cloud.githubusercontent.com/assets/20521208/20474317/912eb176-aff8-11e6-867a-9f7ba5638166.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474494/50a11bac-aff9-11e6-83dd-98d081191b81.jpg)
+
+[![q12a](https://cloud.githubusercontent.com/assets/20521208/20474319/912f591e-aff8-11e6-916d-64897df8957a.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474496/50a1c886-aff9-11e6-8b85-2d00c53b2dba.jpg)
+[![q12b](https://cloud.githubusercontent.com/assets/20521208/20474318/912f429e-aff8-11e6-9a26-6cf409d59d57.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474497/50a36330-aff9-11e6-9370-ff06ee2469ba.jpg)
 
 **Half-Life**
-![hl1a](https://cloud.githubusercontent.com/assets/20521208/20474307/90e9063a-aff8-11e6-9073-f525a733f92e.jpg?raw=true)
-![hl1b](https://cloud.githubusercontent.com/assets/20521208/20474309/90ea2dbc-aff8-11e6-9884-0afb4f8aeec7.jpg?raw=true)
-![hl2a](https://cloud.githubusercontent.com/assets/20521208/20474310/910ab00a-aff8-11e6-8823-1743d7cfb107.jpg?raw=true)
-![hl2b](https://cloud.githubusercontent.com/assets/20521208/20474313/910c7c82-aff8-11e6-9b57-ea290640e63e.jpg?raw=true)
 
-![hl1a](https://cloud.githubusercontent.com/assets/20521208/20474484/505cbe4e-aff9-11e6-9866-933c84d45e94.jpg)
-![hl1b](https://cloud.githubusercontent.com/assets/20521208/20474488/507f063e-aff9-11e6-8017-b630537980f4.jpg)
-![hl2a](https://cloud.githubusercontent.com/assets/20521208/20474487/507eaeb4-aff9-11e6-8ee4-a3b087ad5c4e.jpg)
-![hl2b](https://cloud.githubusercontent.com/assets/20521208/20474489/507efafe-aff9-11e6-85f9-3d9386287b22.jpg)
+[![hl1a](https://cloud.githubusercontent.com/assets/20521208/20474307/90e9063a-aff8-11e6-9073-f525a733f92e.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474484/505cbe4e-aff9-11e6-9866-933c84d45e94.jpg)
+[![hl1b](https://cloud.githubusercontent.com/assets/20521208/20474309/90ea2dbc-aff8-11e6-9884-0afb4f8aeec7.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474488/507f063e-aff9-11e6-8017-b630537980f4.jpg)
+
+[![hl2a](https://cloud.githubusercontent.com/assets/20521208/20474310/910ab00a-aff8-11e6-8823-1743d7cfb107.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474487/507eaeb4-aff9-11e6-8ee4-a3b087ad5c4e.jpg)
+[![hl2b](https://cloud.githubusercontent.com/assets/20521208/20474313/910c7c82-aff8-11e6-9b57-ea290640e63e.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474489/507efafe-aff9-11e6-85f9-3d9386287b22.jpg)
 
 **Counter-Strike 1.6**
-![cs161a](https://cloud.githubusercontent.com/assets/20521208/20474296/90a316d4-aff8-11e6-9e24-03a6fe38fa8a.jpg?raw=true)
-![cs161b](https://cloud.githubusercontent.com/assets/20521208/20474297/90a3f6e4-aff8-11e6-930a-2054d4dd198d.jpg?raw=true)
-![cs162a](https://cloud.githubusercontent.com/assets/20521208/20474300/90c57e18-aff8-11e6-8505-65092a400a22.jpg?raw=true)
-![cs162b](https://cloud.githubusercontent.com/assets/20521208/20474301/90c5e6f0-aff8-11e6-83bf-50fa002f0168.jpg?raw=true)
 
-![cs161a](https://cloud.githubusercontent.com/assets/20521208/20474471/5010fd88-aff9-11e6-8cb9-9b88428b364c.jpg)
-![cs161b](https://cloud.githubusercontent.com/assets/20521208/20474477/50360fce-aff9-11e6-905d-9a3cbc372b18.jpg)
-![cs162a](https://cloud.githubusercontent.com/assets/20521208/20474476/5035b286-aff9-11e6-9ff5-8a613e4bd253.jpg)
-![cs162b](https://cloud.githubusercontent.com/assets/20521208/20474480/503936d6-aff9-11e6-9946-371fd1b9bf94.jpg)
+[![cs161a](https://cloud.githubusercontent.com/assets/20521208/20474296/90a316d4-aff8-11e6-9e24-03a6fe38fa8a.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474471/5010fd88-aff9-11e6-8cb9-9b88428b364c.jpg)
+[![cs161b](https://cloud.githubusercontent.com/assets/20521208/20474297/90a3f6e4-aff8-11e6-930a-2054d4dd198d.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474477/50360fce-aff9-11e6-905d-9a3cbc372b18.jpg)
 
+[![cs162a](https://cloud.githubusercontent.com/assets/20521208/20474300/90c57e18-aff8-11e6-8505-65092a400a22.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474476/5035b286-aff9-11e6-9ff5-8a613e4bd253.jpg)
+[![cs162b](https://cloud.githubusercontent.com/assets/20521208/20474301/90c5e6f0-aff8-11e6-83bf-50fa002f0168.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474480/503936d6-aff9-11e6-9946-371fd1b9bf94.jpg)
 
 **Gunman Chronicles**
-![gunman1a](https://cloud.githubusercontent.com/assets/20521208/20474304/90e80654-aff8-11e6-8dfe-4065c758606b.jpg?raw=true)
-![gunman1b](https://cloud.githubusercontent.com/assets/20521208/20474306/90e89380-aff8-11e6-81c6-6da22b53c6d5.jpg?raw=true)
-![gunman2a](https://cloud.githubusercontent.com/assets/20521208/20474305/90e8a622-aff8-11e6-86e9-b80c590f3bb7.jpg?raw=true)
-![gunman2b](https://cloud.githubusercontent.com/assets/20521208/20474308/90e908b0-aff8-11e6-8d79-d68f54a6e6f6.jpg?raw=true)
 
-![gunman1a](https://cloud.githubusercontent.com/assets/20521208/20474482/505b5392-aff9-11e6-9a86-702afb8a82bc.jpg)
-![gunman1b](https://cloud.githubusercontent.com/assets/20521208/20474485/505d666e-aff9-11e6-8b5c-0d36c09575a6.jpg)
-![gunman2a](https://cloud.githubusercontent.com/assets/20521208/20474486/507c2306-aff9-11e6-825f-0bc2240833d1.jpg)
-![gunman2b](https://cloud.githubusercontent.com/assets/20521208/20474483/505bfb9e-aff9-11e6-82c8-769328a7df9e.jpg)
+[![gunman1a](https://cloud.githubusercontent.com/assets/20521208/20474304/90e80654-aff8-11e6-8dfe-4065c758606b.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474482/505b5392-aff9-11e6-9a86-702afb8a82bc.jpg)
+[![gunman1b](https://cloud.githubusercontent.com/assets/20521208/20474306/90e89380-aff8-11e6-81c6-6da22b53c6d5.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474485/505d666e-aff9-11e6-8b5c-0d36c09575a6.jpg)
+
+[![gunman2a](https://cloud.githubusercontent.com/assets/20521208/20474305/90e8a622-aff8-11e6-86e9-b80c590f3bb7.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474486/507c2306-aff9-11e6-825f-0bc2240833d1.jpg)
+[![gunman2b](https://cloud.githubusercontent.com/assets/20521208/20474308/90e908b0-aff8-11e6-8d79-d68f54a6e6f6.jpg?raw=true)](https://cloud.githubusercontent.com/assets/20521208/20474483/505bfb9e-aff9-11e6-82c8-769328a7df9e.jpg)
 
 **Quake 2**
 
